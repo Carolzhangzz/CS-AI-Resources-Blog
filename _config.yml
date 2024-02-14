@@ -16,7 +16,8 @@ timezone: America/Los_Angeles
 
 title: Welcome！ # the main title
 
-tagline: A resourse platform for STEM students Note: Most of the content is unoriginal # it will display as the sub-title
+tagline: "A resource platform for STEM students. Note: Most of the content is sourced externally."
+# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Empower North American STEM students with academic insights and career opportunities through this comprehensive online platform.
