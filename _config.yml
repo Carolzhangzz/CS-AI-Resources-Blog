@@ -26,16 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://cs.qinshizz.com"
 
 github:
-  username: https://github.com/Carolzhangzz # change to your github username
+  username: Carolzhangzz # change to your github username
 
 twitter:
-  username: https://twitter.com/Carol_Zhang1027 # change to your twitter username
+  username: Carol_Zhang1027 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Carol Qinshi Zhang
-  email: carolzhang705@gmail.com # change to your email address
+  email: applyforcontirbute@qinshizz.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
