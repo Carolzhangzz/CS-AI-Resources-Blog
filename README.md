@@ -1,8 +1,9 @@
-### This is a Resource Platform for STEM Students 
+### 👋 This is a Resource Platform for STEM Students 
 🔍 You can easily browse what you want by checking the "Category" section.<br>
 📮 Please [email](applyforcontirbute@qinshizz.com) me if you want to contribute!<br>
 🏄‍♀️ Enjoy your life!<br>
-Note: Most of the content is sourced externally. Rights Reserved by the original author.
+✅ Most of the content is sourced externally.
+©️Rights Reserved by the original author.
 
 #### Forked From Chirpy Starter 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
