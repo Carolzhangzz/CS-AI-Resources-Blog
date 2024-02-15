@@ -1,7 +1,7 @@
-# This is a Resource Platform for STEM Students 
-🔍You can easily browse what you want by checking the "Category" section.
-📮Please [email](applyforcontirbute@qinshizz.com) me if you want to contribute!
-🏄‍♀️Enjoy your life!
+### This is a Resource Platform for STEM Students 
+🔍You can easily browse what you want by checking the "Category" section.<br>
+📮Please [email](applyforcontirbute@qinshizz.com) me if you want to contribute!<br>
+🏄‍♀️Enjoy your life!<br>
 
 
 # Forked From Chirpy Starter 
