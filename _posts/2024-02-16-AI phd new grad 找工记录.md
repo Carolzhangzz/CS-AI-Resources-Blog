@@ -1,5 +1,5 @@
 ---
-title:  "找工小知识"
+title:  "AI phd new grad 找工心得"
 date:  2024-02-16 5:58:00 +0800
 categories:  [学术,指南] 
 tags: [指南]     
