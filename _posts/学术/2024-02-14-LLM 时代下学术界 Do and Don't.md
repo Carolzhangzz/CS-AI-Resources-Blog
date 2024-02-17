@@ -1,5 +1,5 @@
 ---
-title:  "LLM 时代下学术界 DO and Don'ts"
+title:  "LLM 时代下学术界 Do and Don'ts"
 date:  2024-02-14 2:12:00 +0800
 categories:  [学术, 指南] 
 tags: [指南]     
