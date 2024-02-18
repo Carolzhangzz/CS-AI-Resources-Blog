@@ -4,7 +4,7 @@
 
 🌍  I have added an `English version!!`(still smalli errors), you can click on the lower right corner of the website to switch languages
 
-📮  Please [email](mailto:applyforcontirbute@qinshizz.com) me if you want to contribute!<br>
+📮  Feel free to PR or [email](mailto:applyforcontirbute@qinshizz.com) me if you want to contribute!<br>
 
 🏄‍♀️  Enjoy your life!<br>
 
