@@ -8,7 +8,7 @@
 
 🏄‍♀️  Enjoy your life!<br>
 
-🌟 Stars is not required but appreciate！！
+🌟 Stars are not required but appreciate！！
 
 🌊  Most of the content is sourced externally.<br>
 
