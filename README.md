@@ -10,11 +10,11 @@
 
 🌟  `Stars are not required but appreciate！！`
 
-🌊  Most of the content is sourced externally.<br>
+🌊   Most of the content is sourced externally.<br>
 
 
 ©️Rights Reserved by the original author.
 
-### How to build 
+### How to build ur own website 
 
 Please see the [theme's guides](https://chirpy.cotes.page/).
