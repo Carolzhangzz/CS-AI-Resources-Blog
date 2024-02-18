@@ -6,11 +6,13 @@
 
 📮  Feel free to PR or [email](mailto:applyforcontirbute@qinshizz.com) me if you want to contribute!<br>
 
-🌟  `Stars are not required but appreciate！！`
+🌟  `Stars are not required but appreciate.`
+
+🏄‍♀️  Enjoy the world!<br>
 
 🌊   Most of the content is sourced externally.<br>
 
-🏄‍♀️  Enjoy the world!<br>
+
 
 
 ©️Rights Reserved by the original author.
