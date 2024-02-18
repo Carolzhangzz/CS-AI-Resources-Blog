@@ -24,4 +24,4 @@ Please see the [theme's guides](https://chirpy.cotes.page/).
 ### My 2024 resolutions
 1.去工业界实习，增加工程能力。<br>
 2.继续科研，判断对科研的热情程度。<br>
-3.学习投资和经济学等不同学科的知识，构建自己的更加体系化的世界观和金融思维。<br>
+3.学习投资和经济学等不同学科的知识，构建体系化的世界观和金融思维。<br>
