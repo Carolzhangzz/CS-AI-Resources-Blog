@@ -1,4 +1,11 @@
 
+
+#  CS_Resource CLUB
+
+**在这里，我将分享收集的学习资源**
+**您可以随时提交拉取请求，包括从翻译、文档或您想要添加任何资源**
+**---欢迎参与贡献 PR！！！---**
+
 ### 👋 This is a Resource Platform for STEM Students 
 🔍  You can easily browse what you want by checking the `"Category"` section.<br>
 
@@ -11,7 +18,6 @@
 🏄‍♀️  Enjoy the world!<br>
 
 🌊   Most of the content is sourced externally.<br>
-
 
 
 
