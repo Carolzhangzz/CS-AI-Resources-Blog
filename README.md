@@ -1,6 +1,6 @@
 
 
-#  CS_Resource CLUBbr>
+#  CS_Resource CLUB
 
 **在这里，我将分享收集的学习资源**</br>
 **您可以随时提交拉取请求，包括从翻译、文档或您想要添加任何资源**</br>
